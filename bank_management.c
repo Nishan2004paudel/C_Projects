@@ -38,7 +38,8 @@ int main(){
     int choice;
     int numAccounts = 0;
 
-
+    // Load existing accounts from file
+    loadaccounts(accounts, &numAccounts);
 
     do {
         printf("\n ----Bank Management System------\n");
