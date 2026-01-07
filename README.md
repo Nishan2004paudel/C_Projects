@@ -45,7 +45,14 @@ Just fundamentals.
    - Input validation to prevent invalid transactions
    - Handles multiple accounts and maintains balances across sessions
    
-(Projects 5–10 coming soon)
+5. **To-Do List Application**
+   - Menu-driven console application to manage daily tasks
+   - Add, view, and delete tasks dynamically
+   - Stores tasks using arrays and string handling
+   - Persistent storage using file I/O (`tasks.txt`)
+   - Tasks are automatically loaded when the program starts
+   
+(Projects 6–10 coming soon)
 
 ---
 
