@@ -38,8 +38,14 @@ Just fundamentals.
    - Detects wins in rows, columns, and diagonals
    - Detects draw when the board is full
 
-
-(Projects 3–10 coming soon)
+4. **Bank Management System**
+   - Manage multiple customer accounts
+   - Menu-driven system with options to create account, deposit, withdraw, and view account details
+   - Persistent storage using file I/O (`accounts.dat`)
+   - Input validation to prevent invalid transactions
+   - Handles multiple accounts and maintains balances across sessions
+   
+(Projects 5–10 coming soon)
 
 ---
 
