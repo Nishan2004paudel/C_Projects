@@ -31,6 +31,13 @@ Just fundamentals.
    - Clear, user-friendly prompts
    - Play multiple times without restarting
 
+3. **Tic-Tac-Toe (2 Players)**
+   - Classic 2-player game on a 3x3 grid
+   - Players alternate turns placing X and O
+   - Input validation prevents overwriting cells
+   - Detects wins in rows, columns, and diagonals
+   - Detects draw when the board is full
+
 
 (Projects 3–10 coming soon)
 
