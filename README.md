@@ -24,7 +24,15 @@ Just fundamentals.
    - Attempt counter
    - Play-again feature
 
-(Projects 2–10 coming soon)
+2. **Simple Calculator**
+   - Perform addition, subtraction, multiplication, and division
+   - Loops to allow multiple calculations
+   - Input validation to avoid divide-by-zero errors
+   - Clear, user-friendly prompts
+   - Play multiple times without restarting
+
+
+(Projects 3–10 coming soon)
 
 ---
 
