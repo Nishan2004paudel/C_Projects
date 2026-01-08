@@ -59,8 +59,14 @@ Just fundamentals.
    - Persistent storage using binary file handling (`students.dat`)
    - Supports searching student records by roll number
 
-   
-(Projects 6–10 coming soon)
+7. **Stack Implementation Using Linked List**
+   - Menu-driven stack implementation using linked list
+   - Demonstrates dynamic memory allocation using `malloc` and `free`
+   - Core stack operations: push, pop, peek, and display
+   - Uses pointers and self-referential structures
+   - Handles stack overflow and underflow safely
+
+(Projects 8–10 coming soon)
 
 ---
 
