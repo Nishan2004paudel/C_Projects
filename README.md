@@ -106,8 +106,16 @@ Just **core C concepts**.
 
 ---
 
-### 10. Coming Soon 🚧
-- Another C project to expand logic and data-structure knowledge  
+### 10. Library Management System (Book Return Module)
+- File-based library system  
+- Stores book records in binary file (`books.dat`)  
+- Search books using Book ID  
+- Implements **book return functionality**  
+- Updates book quantity directly in the file using `fseek`  
+- Demonstrates:
+  - Binary file handling  
+  - Structures  
+  - In-place record modification  
 
 ---
 
