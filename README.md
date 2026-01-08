@@ -1,89 +1,113 @@
-# C Projects 🧠
+# 🧠 C Projects
 
-A collection of **10 small C projects** to revise and strengthen core C programming concepts.
+A curated collection of **10 small C projects** designed to **revise fundamentals**, **strengthen logic**, and **improve problem-solving skills** using pure C programming.
 
-Pure C.  
 No frameworks.  
-Just fundamentals.
+No external libraries.  
+Just **core C concepts**.
 
 ---
 
-## 📌 Goals
-- Revise C basics
-- Improve logic & problem-solving
-- Write clean, readable C code
+## 🎯 Objectives
+
+- Reinforce C programming fundamentals  
+- Improve logical thinking and algorithmic skills  
+- Practice writing clean, readable, and maintainable C code  
+- Gain hands-on experience with file handling, pointers, and data structures  
 
 ---
 
-## 📂 Projects
+## 📁 Project List
 
-1. **Number Guessing Game**
-   - Random number generation
-   - Loops & conditionals
-   - Input validation
-   - Attempt counter
-   - Play-again feature
+### 1. Number Guessing Game
+- Random number generation  
+- Loops and conditional statements  
+- Input validation  
+- Attempt counter  
+- Play-again functionality  
 
-2. **Simple Calculator**
-   - Perform addition, subtraction, multiplication, and division
-   - Loops to allow multiple calculations
-   - Input validation to avoid divide-by-zero errors
-   - Clear, user-friendly prompts
-   - Play multiple times without restarting
+---
 
-3. **Tic-Tac-Toe (2 Players)**
-   - Classic 2-player game on a 3x3 grid
-   - Players alternate turns placing X and O
-   - Input validation prevents overwriting cells
-   - Detects wins in rows, columns, and diagonals
-   - Detects draw when the board is full
+### 2. Simple Calculator
+- Performs addition, subtraction, multiplication, and division  
+- Loop-based execution for multiple calculations  
+- Input validation to prevent divide-by-zero errors  
+- Clear and user-friendly prompts  
+- Run multiple operations without restarting  
 
-4. **Bank Management System**
-   - Manage multiple customer accounts
-   - Menu-driven system with options to create account, deposit, withdraw, and view account details
-   - Persistent storage using file I/O (`accounts.dat`)
-   - Input validation to prevent invalid transactions
-   - Handles multiple accounts and maintains balances across sessions
-   
-5. **To-Do List Application**
-   - Menu-driven console application to manage daily tasks
-   - Add, view, and delete tasks dynamically
-   - Stores tasks using arrays and string handling
-   - Persistent storage using file I/O (`tasks.txt`)
-   - Tasks are automatically loaded when the program starts
+---
 
-6. **Student Record Management System**
-   - Menu-driven console application to manage student records
-   - Uses structures to store student details (roll, name, marks)
-   - Implements pointers for efficient data manipulation
-   - Persistent storage using binary file handling (`students.dat`)
-   - Supports searching student records by roll number
+### 3. Tic-Tac-Toe (2 Players)
+- Classic 2-player game on a 3×3 grid  
+- Alternating turns with `X` and `O`  
+- Prevents overwriting occupied cells  
+- Detects wins (rows, columns, diagonals)  
+- Detects draw when the board is full  
 
-7. **Stack Implementation Using Linked List**
-   - Menu-driven stack implementation using linked list
-   - Demonstrates dynamic memory allocation using `malloc` and `free`
-   - Core stack operations: push, pop, peek, and display
-   - Uses pointers and self-referential structures
-   - Handles stack overflow and underflow safely
+---
 
-8. **Binary Search Tree (BST) Implementation in C**
-   - Menu-driven BST implementation using pointers and recursion
-   - Supports dynamic insertion, search, deletion, and tree traversal
-   - Traversals include Inorder, Preorder, and Postorder
-   - Proper memory management using `malloc` and `free`
-   - Demonstrates advanced pointer handling and recursive logic
+### 4. Bank Management System
+- Manages multiple customer accounts  
+- Menu-driven interface  
+- Create account, deposit, withdraw, and view details  
+- Persistent storage using file I/O (`accounts.dat`)  
+- Input validation for secure transactions  
 
-10. **Sorting Algorithms in C**
-   - Menu-driven program implementing multiple sorting algorithms
-   - Demonstrates pointer-based swapping and array manipulation
-   - Includes:
-     Bubble Sort
-     Selection Sort
-     Insertion Sort
-     Quick Sort (recursive, divide-and-conquer)
-   - Highlights pointer usage, recursion, and algorithmic thinking
+---
 
-(Project 10 coming soon)
+### 5. To-Do List Application
+- Console-based task management system  
+- Add, view, and delete tasks  
+- Uses arrays and string handling  
+- Persistent storage using file I/O (`tasks.txt`)  
+- Automatically loads tasks at program start  
+
+---
+
+### 6. Student Record Management System
+- Menu-driven student record system  
+- Uses structures to store roll number, name, and marks  
+- Pointer-based data manipulation  
+- Binary file handling (`students.dat`)  
+- Search records by roll number  
+
+---
+
+### 7. Stack Implementation Using Linked List
+- Menu-driven stack operations  
+- Implemented using linked lists  
+- Dynamic memory allocation (`malloc`, `free`)  
+- Core operations: push, pop, peek, display  
+- Handles stack overflow and underflow safely  
+
+---
+
+### 8. Binary Search Tree (BST) in C
+- Menu-driven BST implementation  
+- Dynamic insertion, search, and deletion  
+- Tree traversals:
+  - Inorder  
+  - Preorder  
+  - Postorder  
+- Recursive logic and pointer manipulation  
+- Proper memory management  
+
+---
+
+### 9. Sorting Algorithms in C
+- Menu-driven implementation of sorting techniques  
+- Pointer-based swapping and array manipulation  
+- Includes:
+  - Bubble Sort  
+  - Selection Sort  
+  - Insertion Sort  
+  - Quick Sort (recursive, divide-and-conquer)  
+- Demonstrates recursion, pointers, and algorithmic thinking  
+
+---
+
+### 10. Coming Soon 🚧
+- Another C project to expand logic and data-structure knowledge  
 
 ---
 
