@@ -51,6 +51,14 @@ Just fundamentals.
    - Stores tasks using arrays and string handling
    - Persistent storage using file I/O (`tasks.txt`)
    - Tasks are automatically loaded when the program starts
+
+6. **Student Record Management System**
+   - Menu-driven console application to manage student records
+   - Uses structures to store student details (roll, name, marks)
+   - Implements pointers for efficient data manipulation
+   - Persistent storage using binary file handling (`students.dat`)
+   - Supports searching student records by roll number
+
    
 (Projects 6–10 coming soon)
 
