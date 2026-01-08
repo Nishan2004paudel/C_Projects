@@ -66,7 +66,13 @@ Just fundamentals.
    - Uses pointers and self-referential structures
    - Handles stack overflow and underflow safely
 
-(Projects 8–10 coming soon)
+8. **Binary Search Tree (BST) Implementation in C**
+   - Menu-driven BST implementation using pointers and recursion
+   - Supports dynamic insertion, search, deletion, and tree traversal
+   - Traversals include Inorder, Preorder, and Postorder
+   - Proper memory management using `malloc` and `free`
+   - Demonstrates advanced pointer handling and recursive logic
+(Projects 9–10 coming soon)
 
 ---
 
