@@ -77,10 +77,10 @@ Just fundamentals.
    - Menu-driven program implementing multiple sorting algorithms
    - Demonstrates pointer-based swapping and array manipulation
    - Includes:
-     - Bubble Sort
-     - Selection Sort
-     - Insertion Sort
-     - Quick Sort (recursive, divide-and-conquer)
+     Bubble Sort
+     Selection Sort
+     Insertion Sort
+     Quick Sort (recursive, divide-and-conquer)
    - Highlights pointer usage, recursion, and algorithmic thinking
 
 (Project 10 coming soon)
