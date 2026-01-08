@@ -72,6 +72,9 @@ Just fundamentals.
    - Traversals include Inorder, Preorder, and Postorder
    - Proper memory management using `malloc` and `free`
    - Demonstrates advanced pointer handling and recursive logic
+
+
+   
 (Projects 9–10 coming soon)
 
 ---

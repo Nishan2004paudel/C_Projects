@@ -39,7 +39,7 @@ void inorder(struct Node *root){
     }
 
     inorder(root -> left);
-    printf("%d", root-> data);
+    printf("%d ", root-> data);
     inorder(root -> right);
 }
 
@@ -48,7 +48,7 @@ void preorder(struct Node *root){
         return;
     }
 
-    printf("%d", root -> data);
+    printf("%d ", root -> data);
     preorder(root->left);
     preorder(root->right);
 }
@@ -59,7 +59,7 @@ void postorder(struct Node *root){
     }
     postorder(root -> left);
     postorder(root -> right);
-    printf("%d", root -> data);
+    printf("%d ", root -> data);
 }
 struct Node* search(struct Node *root, int key){
     if (root == NULL || root -> data == key){
@@ -101,6 +101,7 @@ struct Node* deleteNode(struct Node *root, int key){
             root -> right = deleteNode(root -> right, temp ->data);
         }
     }
+    return root;
 }
 
 
